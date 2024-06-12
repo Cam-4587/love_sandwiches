@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "centered-carver-426116-a8",
+  "private_key_id": "352a0c7a6f5a18a6a51a24116d2087b6df9b20bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC/qZbVB9DBTk4B\nGcThjhGjcfiDjVecSwHyTwwbd3bun643wfiE13Qfl+ueXx+afZFhZFAM4V9CRwno\nDThoP1V3s8n8BRdbYNgX8ZlWHGw/zrGoYa4xnkGwfbNzk4uKE+f0wghu4Lzq6Ymz\neKps1HSJMH9HdNmQ7cb6Q/YwLdgrVRiDZWatvvd0nxGaXeMfXx+02oCvmqqmcDhS\nBMW/3VWAFVQr2lrHvEQjxvYLkr2KGYcKBnaMu9LiRxrM4K/ib5Nlyn5vzuTYHKnP\nqUUL/jyZSZWw7hK5XGyfEc8pNtJ0CAi6Q/cU058TnmbTaejD0fGW008aEKMXwABM\ncpj8teRjAgMBAAECggEAP6SOw1p/BVF9MXxfFg7Y6I812GkcyHdXxCBfgtdelMpN\nTZKJdYMdukf2I3auxdwgZFitBDnqKdXxAi8xpdwyAzeeQKNoKB22Y+0D38Y8Y8u8\nzo7xCuTkJzj2V9CMq2MEyQ+NQVQ7Jz45TXEqFk1ODSgfe5jfjfKG+h+LJmBywaBC\n7IQ8e5R71PujTT07XDIEqHX17gR7VkdcdkYoOmLuIhUqo3jYp7FT6wVpV5kxSEiY\nyoMPk9wdBnZgyFZQlDsAx32u6wVygzm6+KMvVGoZDs71ZYP31Rym1O495DFz1N5n\nROijVLeZ53lAmAbYAr2ubnmmFYmfwBFCTwnXIgXigQKBgQDnln+DLV0WU/TryY+B\n11GYRA3tZ0otInJwBmJ8uhx+S02fEe4LSTnJlBN2I6AIOIc4mXmh8n8KGBla9YwS\n0IR0QI8U5nWt0TYJSfK6fZ6uRWAOgaVpzIaJe41CJ9rNUKohG4TAQcfMfbaBLnzY\nYrXg+28MQSUbkQTOBHrGnZQygwKBgQDT3a+NcOPZ0SAQHPsrOPqsd4VIfVcJ2MB2\nMIv5urAPQnswNjuAcrL/HBidj+EZevUVrcsVIHzQqiRA1Scx97DDH+LNxyBy/XCo\nup++ZDIVgTO1ApzxMCovoXhUmvoBWLNIlYB203tzvA2uVxS7APsc6O+/Yvs6/uuK\nXRgBSVtgoQKBgFk2Mny31uopAWprROsBpR8A6FSRu5NTd74L15iwoRVNsOMcJxUV\n6jrq3exeoOFJ1V1KUf6+yY175xiRCpqc1MlrrTKh7Kc+tpAxel240o3Tj8NG0g/F\nh/YiMDJR5Am/jyodza+6J1tw+gMdg15f+Cxo70hLOB48aRtrwlgMj/A9AoGAeOBf\nO5Rv+yMMZwUR7EwbAPFEEuKoGQ8YZ5Y1FmsD7gDhJdWbRyKpq1FNXf/rzszPLeo1\nFr2tWKPqAS9bqG+H4xu7G+qDQfgFIc8wOsERriFD7f8qqZTwTLKUY7jz8Ha5+yyI\n2cK5CYP+TjySsErT+l+QAaKocbVlj1Cj1IAU6WECgYEAyGnA3rKEpOg8tx/Aj91e\nQAu5d07pP+1ZUzDzgijNz3ztRVThKAsU8WXtv8kP4VNxiq/c7zSo/trzj65iul6J\nYIdozcSagC80P6sLr/c3GxmgYn1t0tyv15DDw7mH7oih+SVureXgUO71F8Fs8Iai\nCmSBqGQb00/VFzTtNbuhfHw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lovesandwiches@centered-carver-426116-a8.iam.gserviceaccount.com",
+  "client_id": "108733742799793397264",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lovesandwiches%40centered-carver-426116-a8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
